@@ -1,0 +1,20 @@
+.notfound_page {
+  background-image: url('../images/notfound.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100vw 100vh;
+  width: 100vw;
+  height: 100vh;
+}
+
+.errorTitle {
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 20px;
+}
+
+footer p {
+  font-size: 20px;
+}
